@@ -1,0 +1,2 @@
+bin_PROGRAMS=ftp_server
+myftp_SOURCES=ftp_server.c
